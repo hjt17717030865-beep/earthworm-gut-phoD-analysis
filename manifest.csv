@@ -1,0 +1,23 @@
+script,description
+scripts/00_D_plot_metrics.R,Derived D metrics used in the amplicon analyses.
+scripts/01_PC1_calculation.R,PC1 calculation for gut 16S and soil chemistry summaries.
+scripts/02_Fig2_soil_state_background.R,Main Figure 2.
+scripts/03_Fig3_soil_gut_community_linkage.R,Main Figure 3.
+scripts/04_Fig4_phoD_amplification_potential.R,Main Figure 4.
+scripts/05_Fig5_genome_resolved_context.R,Main Figure 5.
+scripts/S01_soil_chemistry_overview_combined.R,Supplementary Figure S1.
+scripts/S02_chronosequence_robustness.R,Supplementary Figure S2.
+scripts/S03_qpcr_technical_reliability.R,Supplementary Figure S3.
+scripts/S04_phoD_metric_robustness.R,Supplementary Figure S4.
+scripts/S05_gut16S_PC1_taxonomy.R,Supplementary Figure S5.
+scripts/S06_soil_gut_phoD_metric_robustness.R,Supplementary Figure S6.
+scripts/S07_phoD_P_acquisition_association.R,Supplementary Figure S7.
+scripts/S08_model_diagnostics.R,Supplementary Figure S8.
+scripts/S09_MAG_P_acquisition_repertoire.R,Supplementary Figure S9.
+scripts/T03_soil_properties_ChemPC1.R,Supplementary Table S3.
+scripts/T05_amplicon_summary_metrics.R,Supplementary Table S5.
+scripts/T07_main_linear_models.R,Supplementary Table S7.
+scripts/T08_PERMANOVA_dispersion.R,Supplementary Table S8.
+scripts/T09_phoD_robustness_and_coupling.R,Supplementary Table S9.
+scripts/T10_independent_Pindex_robustness.R,Supplementary Table S10.
+scripts/T11_MAG_GTDB_summary.R,Supplementary Table S11.
